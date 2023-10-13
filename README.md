@@ -4,7 +4,9 @@ This repository contains the code and data associated with our EMNLP 2023 submis
 `get_caricature_scores.py`: script to run to compute individuation and exaggeration scores for a given dataset of simulations (example usage: `python get_caricature_scores.py examples/twitter_mini user comment`)
 `generation_scripts`: example scripts to generate simulations in different contexts 
 `topics`: lists of topics for each context.
-`data`: generated simulations with embeddings
 `exaggeration_scores.ipynb`: reproduce exaggeration score results
 `individuation_scores.ipynb`: reproduce individuation score results
 `generate_embeddings.ipynb`: compute embeddings for output data
+
+# Data
+`data`: generated simulations for the Online Forum and Interview contexts
